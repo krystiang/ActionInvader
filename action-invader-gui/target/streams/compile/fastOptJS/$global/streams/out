@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mFast optimizing /home/Nick.Diedrich/development/workspace/action-invader-gui/target/scala-2.11/js-framework-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Read info: 237121 us[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 220757 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 1195847 us[0m
+[0m[[0mdebug[0m] [0mLinker: cache stats: reused: 0 -- invalidated: 3757 -- trees read: 543[0m
+[0m[[0mdebug[0m] [0mLinker: 1682474 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: true[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 269422 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 3248 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 1001537 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 1294586 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 82930 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 16303 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 101121 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 0 -- invalidated: 387[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 1573[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 800609 us[0m
